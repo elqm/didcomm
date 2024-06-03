@@ -1,7 +1,0 @@
-{
-    "port": "8080",
-    "bsUrl": "192.168.20.10:8090",
-    "wsEndPoint": "/ws",
-    "pathBundle": "../didcomm-demo-main/bin",
-    "pathHtml": "../didcomm-demo-main/public/index.html"
-}
